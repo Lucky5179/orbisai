@@ -12512,25 +12512,9 @@ Error generating stack: ` + a.message + `
             })]
           }), x.jsxs(a$, {
             children: [x.jsxs("ul", {
-              children: [x.jsx("li", {
-                children: "Product"
-              }), x.jsx("li", {
-                children: "Pricing"
-              }), x.jsx("li", {
-                children: "Customers"
-              }), x.jsx("li", {
-                children: "Documentation"
-              })]
+             
             }), x.jsxs("ul", {
-              children: [x.jsx("li", {
-                children: "About"
-              }), x.jsx("li", {
-                children: "Blog"
-              }), x.jsx("li", {
-                children: "Press Kit"
-              }), x.jsx("li", {
-                children: "FAQ"
-              })]
+              
             }), x.jsxs("ul", {
               children: [x.jsx("a", {
                 href: "https://x.com/oniai_erc20",
