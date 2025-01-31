@@ -10951,7 +10951,7 @@ Error generating stack: ` + a.message + `
           to: "/launchpad",
           children: "Launchpad"
         }), x.jsx("a", {
-          href: "https://whitepaper.ONI-ai.pro/",
+          href: "https://docs.oniai.xyz/",
           target: "_blank",
           children: "Whitepaper"
         }), x.jsx("a", {
@@ -88652,7 +88652,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
                   })
                 }), " ", "Launchpad"]
               }), x.jsxs("a", {
-                href: "https://whitepaper.ONI-ai.pro/",
+                href: "https://docs.oniai.xyz/",
                 target: "_blank",
                 children: [x.jsx("span", {
                   children: x.jsxs("svg", {
