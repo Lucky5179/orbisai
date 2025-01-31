@@ -20391,7 +20391,7 @@ Error generating stack: ` + a.message + `
               children: [" ", x.jsx("span", {
                 children: "Decimal: "
               }), x.jsx("p", {
-                children: "18"
+                children: "9"
               })]
             }), x.jsxs("li", {
               "data-aos": "flip-right",
