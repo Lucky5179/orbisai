@@ -10944,13 +10944,7 @@ Error generating stack: ` + a.message + `
         }), x.jsx(Ko, {
           to: "/bot",
           children: "ONI Bot"
-        }), x.jsx(Ko, {
-          to: "/overview",
-          children: "Overview"
-        }), x.jsx(Ko, {
-          to: "/launchpad",
-          children: "Launchpad"
-        }), x.jsx("a", {
+        }),  x.jsx("a", {
           href: "https://docs.oniai.xyz/",
           target: "_blank",
           children: "Whitepaper"
@@ -88724,13 +88718,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
             }), x.jsx(bd, {
               path: "/bot",
               element: x.jsx(cF, {})
-            }), x.jsx(bd, {
-              path: "/overview",
-              element: x.jsx(a1e, {})
-            }), x.jsx(bd, {
-              path: "/launchpad",
-              element: x.jsx(Lte, {})
-            })]
+            }), ]
           })]
         })
       })
