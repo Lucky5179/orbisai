@@ -12533,11 +12533,11 @@ Error generating stack: ` + a.message + `
               })]
             }), x.jsxs("ul", {
               children: [x.jsx("a", {
-                href: "https://x.com/",
+                href: "https://x.com/oniai_erc20",
                 target: "_blank",
                 children: "Twitter (X)"
               }), x.jsx("a", {
-                href: "https://t.me/ONI_ai_pro",
+                href: "https://t.me/oniai_erc20",
                 target: "_blank",
                 children: "Telegram"
               }), x.jsx("a", {
