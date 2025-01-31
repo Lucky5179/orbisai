@@ -19043,7 +19043,7 @@ Error generating stack: ` + a.message + `
         children: [x.jsxs(Gl, {
           "data-aos": "flip-left",
           children: [x.jsx("h6", {
-            children: "Q1 2024"
+            children: "Q1 2025"
           }), x.jsx("span", {}), x.jsx("h3", {
             children: "Building"
           }), x.jsxs("ul", {
