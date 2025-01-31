@@ -10943,7 +10943,7 @@ Error generating stack: ` + a.message + `
           children: "Home"
         }), x.jsx(Ko, {
           to: "/bot",
-          children: "Orbis Bot"
+          children: "ONI Bot"
         }), x.jsx(Ko, {
           to: "/overview",
           children: "Overview"
@@ -10951,7 +10951,7 @@ Error generating stack: ` + a.message + `
           to: "/launchpad",
           children: "Launchpad"
         }), x.jsx("a", {
-          href: "https://whitepaper.orbis-ai.pro/",
+          href: "https://whitepaper.ONI-ai.pro/",
           target: "_blank",
           children: "Whitepaper"
         }), x.jsx("a", {
@@ -10961,7 +10961,7 @@ Error generating stack: ` + a.message + `
         })]
       }), x.jsxs(FV, {
         children: [x.jsxs(gh, {
-          href: "https://app.orbis-ai.pro/",
+          href: "https://app.oniai.xyz/",
           target: "_blank",
           children: [x.jsx("img", {
             src: "./img/IconLaunchApp.svg",
@@ -11022,7 +11022,7 @@ Error generating stack: ` + a.message + `
     children: [x.jsx("img", {
       src: "./img/ImgBoxGreen.svg"
     }), x.jsx("p", {
-      children: "ORBISProtocol"
+      children: "ONIProtocol"
     }), x.jsx("span", {
       children: "Project"
     })]
@@ -11408,10 +11408,10 @@ Error generating stack: ` + a.message + `
       children: [x.jsxs(IN, {
         children: [x.jsx(I3, {}), x.jsxs("h3", {
           "data-aos": "fade-down",
-          children: ["About ", x.jsx("br", {}), "ORBIS AI Protocol"]
+          children: ["About ", x.jsx("br", {}), "ONI AI Protocol"]
         }), x.jsxs("h6", {
           children: [x.jsx("span", {
-            children: "ORBIS AI Protocol"
+            children: "ONI AI Protocol"
           }), " is a next-generation decentralized platform designed to empower users with advanced tools in DePIN and seamless experiences in the DeFi landscape."]
         })]
       }), x.jsx(jN, {}), x.jsx(ON, {})]
@@ -11585,7 +11585,7 @@ Error generating stack: ` + a.message + `
     DN = () => x.jsxs(VN, {
       children: [x.jsxs(m2, {
         children: [x.jsx("span", {}), " ", x.jsx("p", {
-          children: "ORBIS AI Protocol"
+          children: "ONI AI Protocol"
         })]
       }), x.jsx("h3", {
         "data-aos": "fade-up",
@@ -11610,11 +11610,11 @@ Error generating stack: ` + a.message + `
     FN = [{
       title: "[01]",
       icon: "./img/Depin1.svg",
-      text: "Swap into ORBIS token"
+      text: "Swap into ONI token"
     }, {
       title: "[02]",
       icon: "./img/Depin2.svg",
-      text: "Add Liquidity ORBIS/ETH"
+      text: "Add Liquidity ONI/ETH"
     }, {
       title: "[03]",
       icon: "./img/Depin3.svg",
@@ -12090,7 +12090,7 @@ Error generating stack: ` + a.message + `
             cutting-edge GPUs, tailored for dynamic computing tasks like AI
             development and blockchain applications`
         }), x.jsx(Xl, {
-          title: "ORBIS Dex",
+          title: "ONI Dex",
           img: "./img/Eco2.png",
           des: `Unlock the full potential of cross-chain trading with seamless swaps
             and optimized routing, ensuring your transactions are both efficient
@@ -12102,7 +12102,7 @@ Error generating stack: ` + a.message + `
             Nodes/Miners, leveraging top blockchain networks for consistent and
             reliable revenue.`
         }), x.jsx(Xl, {
-          title: "ORBIS Bot",
+          title: "ONI Bot",
           img: "./img/Eco4.png",
           des: `Leverage AI-powered trading and market-making bots to optimize your
             strategies and liquidity management to maximize profits with
@@ -12111,11 +12111,11 @@ Error generating stack: ` + a.message + `
           title: "Governance",
           img: "./img/Eco5.png",
           des: `Join the DAO, participate in discussions, and vote on the future of
-            ORBIS AI Protocol. Make your voice heard.`
+            ONI AI Protocol. Make your voice heard.`
         }), x.jsx(Xl, {
-          title: "ORBIS Launchpad",
+          title: "ONI Launchpad",
           img: "./img/Eco6.png",
-          des: "ORBIS Launchpad is a decentralized platform that efficiently supports new cryptocurrency projects in launching and raising capital through presales."
+          des: "ONI Launchpad is a decentralized platform that efficiently supports new cryptocurrency projects in launching and raising capital through presales."
         })]
       })]
     }),
@@ -12266,10 +12266,10 @@ Error generating stack: ` + a.message + `
           children: [x.jsx("img", {
             src: "./img/ImgBoxGreen.svg"
           }), x.jsx("p", {
-            children: "ORBIS Farming/Mining"
+            children: "ONI Farming/Mining"
           })]
         }), x.jsx("h3", {
-          children: "ORBIS FARMING/ MINING"
+          children: "ONI FARMING/ MINING"
         }), x.jsx("h6", {
           children: "Creating a DeFi experience and earning profits from DePIN"
         }), x.jsxs("ul", {
@@ -12485,13 +12485,13 @@ Error generating stack: ` + a.message + `
       children: [x.jsxs(e$, {
         children: [x.jsx("h3", {
           "data-aos": "fade-down",
-          children: "Shaping DeFi’s Future Through Automation with ORBIS AI Protocol"
+          children: "Shaping DeFi’s Future Through Automation with ONI AI Protocol"
         }), x.jsxs(gh, {
           children: [x.jsx("img", {
             src: "./img/IconLaunchApp.svg",
             alt: ""
           }), x.jsx("a", {
-            href: "https://app.orbis-ai.pro/",
+            href: "https://app.oniai.xyz/",
             target: "_blank",
             children: "Launch App"
           })]
@@ -12537,7 +12537,7 @@ Error generating stack: ` + a.message + `
                 target: "_blank",
                 children: "Twitter (X)"
               }), x.jsx("a", {
-                href: "https://t.me/orbis_ai_pro",
+                href: "https://t.me/ONI_ai_pro",
                 target: "_blank",
                 children: "Telegram"
               }), x.jsx("a", {
@@ -14557,7 +14557,7 @@ Error generating stack: ` + a.message + `
           children: "DePIN Mining"
         }), x.jsxs(TN, {
           children: [x.jsx("span", {
-            children: "With ORBIS AI Protocol"
+            children: "With ONI AI Protocol"
           }), ", you not only participate in Node mining but also own a piece of the decentralized network. By integrating AI technology, DePIN optimizes mining performance, delivering maximum returns from your assets."]
         }), x.jsxs(LE, {
           children: [x.jsx("img", {
@@ -14754,7 +14754,7 @@ Error generating stack: ` + a.message + `
           "data-aos": "fade-down",
           children: "Effortless Trading at Your Fingertips"
         }), x.jsx("h6", {
-          children: "Experience seamless cross-chain trading with ORBIS AI Protocol's advanced DEX"
+          children: "Experience seamless cross-chain trading with ONI AI Protocol's advanced DEX"
         }), x.jsxs("ul", {
           children: [x.jsxs("li", {
             children: [x.jsx("span", {}), " Optimal Routing"]
@@ -18130,11 +18130,11 @@ Error generating stack: ` + a.message + `
       return x.jsxs(m$, {
         children: [x.jsxs(m2, {
           children: [x.jsx("span", {}), " ", x.jsx("p", {
-            children: "ORBIS AI Protocol"
+            children: "ONI AI Protocol"
           })]
         }), x.jsx("h5", {
           "data-aos": "fade-down",
-          children: "ORBIS Bots"
+          children: "ONI Bots"
         }), x.jsx(v$, {
           children: x.jsx(x$, {
             children: x.jsxs(gD, {
@@ -18292,7 +18292,7 @@ Error generating stack: ` + a.message + `
       children: x.jsxs(IV, {
         children: [x.jsxs(jV, {
           children: [x.jsx("span", {}), " ", x.jsx("p", {
-            children: "ORBIS AI Protocol"
+            children: "ONI AI Protocol"
           })]
         }), x.jsxs(zV, {
           children: [x.jsx("h4", {
@@ -18309,12 +18309,12 @@ Error generating stack: ` + a.message + `
         }), x.jsx(VV, {
           children: x.jsx(NV, {
             children: x.jsx("h3", {
-              children: "ORBIS - Open Network Integration"
+              children: "ONI - Open Network Integration"
             })
           })
         }), x.jsxs($V, {
           children: [x.jsxs(gh, {
-            href: "https://app.orbis-ai.pro/",
+            href: "https://app.oniai.xyz/",
             target: "_blank",
             children: [x.jsx("img", {
               src: "./img/IconLaunchApp.svg",
@@ -18511,11 +18511,11 @@ Error generating stack: ` + a.message + `
       })]
     }),
     kD = [{
-      title: "1. What is ORBIS AI Protocol ?",
-      text: "ORBIS AI Protocol tackles open network integration and cross-chain connectivity challenges. Utilizing DePIN and AI, it enables users to profit from Nodes/GPUs and become Validators. The platform connects resource providers with developers, promoting decentralization and expanding blockchain technology's global impact"
+      title: "1. What is ONI AI Protocol ?",
+      text: "ONI AI Protocol tackles open network integration and cross-chain connectivity challenges. Utilizing DePIN and AI, it enables users to profit from Nodes/GPUs and become Validators. The platform connects resource providers with developers, promoting decentralization and expanding blockchain technology's global impact"
     }, {
-      title: "2. How do the AI-powered bots work in ORBIS AI Protocol?",
-      text: "ORBIS AI Protocol is a cutting-edge decentralized platform revolutionizing DeFi with advanced technology. It offers  a sustainable mining model through Protocol-Owned Nodes/Miners (PON/POM), an efficient cross-chain DEX, AI-powered trading and market-making bots for optimized profits. The platform also provides GPU Nodes Renting for high-performance computing needs. The ORBIS AI Protocol sets a new standard in DeFi through innovation and automation."
+      title: "2. How do the AI-powered bots work in ONI AI Protocol?",
+      text: "ONI AI Protocol is a cutting-edge decentralized platform revolutionizing DeFi with advanced technology. It offers  a sustainable mining model through Protocol-Owned Nodes/Miners (PON/POM), an efficient cross-chain DEX, AI-powered trading and market-making bots for optimized profits. The platform also provides GPU Nodes Renting for high-performance computing needs. The ONI AI Protocol sets a new standard in DeFi through innovation and automation."
     }, {
       title: "3. What benefits does the GPU Nodes Renting Service provide?",
       text: "The GPU Nodes Renting Service offers access to high-performance GPUs, tailored for demanding computing tasks such as AI development and blockchain applications. This service allows users to leverage cutting-edge technology for their projects without the need for significant upfront investment in hardware."
@@ -18707,7 +18707,7 @@ Error generating stack: ` + a.message + `
       children: [x.jsxs(ED, {
         children: [x.jsxs(m2, {
           children: [x.jsx("span", {}), x.jsx("p", {
-            children: "ORBIS AI Protocol"
+            children: "ONI AI Protocol"
           })]
         }), x.jsx(_D, {}), x.jsx("h3", {
           "data-aos": "fade-down",
@@ -18722,7 +18722,7 @@ Error generating stack: ` + a.message + `
           }), x.jsx("h3", {
             children: "Advanced Tools"
           }), x.jsx("p", {
-            children: "ORBIS AI Protocol offers AI-powered tools and decentralized infrastructure for building scalable, efficient applications."
+            children: "ONI AI Protocol offers AI-powered tools and decentralized infrastructure for building scalable, efficient applications."
           })]
         }), x.jsxs(sb, {
           bg: "./img/Receive2.png",
@@ -19068,7 +19068,7 @@ Error generating stack: ` + a.message + `
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Building Node Renting Service"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Establishing Orbis DEX"]
+              children: [x.jsx("span", {}), " Establishing ONI DEX"]
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Infrastructure Construction"]
             })]
@@ -19085,7 +19085,7 @@ Error generating stack: ` + a.message + `
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Listing DEX"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Provide Liquidity ORBIS"]
+              children: [x.jsx("span", {}), " Provide Liquidity ONI"]
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Audit Smart Contract"]
             }), x.jsxs("li", {
@@ -19100,13 +19100,13 @@ Error generating stack: ` + a.message + `
             children: "Scaling"
           }), x.jsxs("ul", {
             children: [x.jsxs("li", {
-              children: [x.jsx("span", {}), " Release ORBIS Farming & Mining"]
+              children: [x.jsx("span", {}), " Release ONI Farming & Mining"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Stake LPs ORBIS Token"]
+              children: [x.jsx("span", {}), " Stake LPs ONI Token"]
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Adding Liquidity"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " ORBIS Exchange Testnet"]
+              children: [x.jsx("span", {}), " ONI Exchange Testnet"]
             })]
           })]
         }), x.jsxs(Gl, {
@@ -19119,7 +19119,7 @@ Error generating stack: ` + a.message + `
             children: [x.jsxs("li", {
               children: [x.jsx("span", {}), " Releasing Node Renting Service"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Deploying ORBIS Bots"]
+              children: [x.jsx("span", {}), " Deploying ONI Bots"]
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Providing Liquidity"]
             }), x.jsxs("li", {
@@ -19140,9 +19140,9 @@ Error generating stack: ` + a.message + `
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Staking Rewards"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Release ORBIS Exchange"]
+              children: [x.jsx("span", {}), " Release ONI Exchange"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " Release ORBIS Trading Bot"]
+              children: [x.jsx("span", {}), " Release ONI Trading Bot"]
             })]
           })]
         }), x.jsxs(Gl, {
@@ -19153,9 +19153,9 @@ Error generating stack: ` + a.message + `
             children: "Innovation"
           }), x.jsxs("ul", {
             children: [x.jsxs("li", {
-              children: [x.jsx("span", {}), " Release ORBIS Market Maker Bot"]
+              children: [x.jsx("span", {}), " Release ONI Market Maker Bot"]
             }), x.jsxs("li", {
-              children: [x.jsx("span", {}), " ORBIS Launchpad"]
+              children: [x.jsx("span", {}), " ONI Launchpad"]
             }), x.jsxs("li", {
               children: [x.jsx("span", {}), " Listing Trading Pairs"]
             }), x.jsxs("li", {
@@ -19333,10 +19333,10 @@ Error generating stack: ` + a.message + `
         children: [x.jsxs(zD, {
           children: [x.jsx("h3", {
             "data-aos": "zoom-out-right",
-            children: "ORBIS AI Protocol Service"
+            children: "ONI AI Protocol Service"
           }), x.jsxs("p", {
             children: [x.jsx("span", {
-              children: "With ORBIS AI Protocol"
+              children: "With ONI AI Protocol"
             }), ", you not only participate in Node mining but also own a piece of the decentralized network."]
           }), x.jsx(VD, {})]
         }), x.jsxs(ND, {
@@ -19675,7 +19675,7 @@ Error generating stack: ` + a.message + `
         children: [x.jsxs(u9, {
           children: [x.jsxs(m2, {
             children: [x.jsx("span", {}), x.jsx("p", {
-              children: "ORBIS AI Protocol"
+              children: "ONI AI Protocol"
             })]
           }), x.jsx("h3", {
             children: "Tokenomics"
@@ -20382,7 +20382,7 @@ Error generating stack: ` + a.message + `
           children: [x.jsxs(u9, {
             children: [x.jsxs(m2, {
               children: [x.jsx("span", {}), x.jsx("p", {
-                children: "ORBIS AI Protocol"
+                children: "ONI AI Protocol"
               })]
             }), x.jsx("h3", {
               children: "TOKENOMICS"
@@ -20393,7 +20393,7 @@ Error generating stack: ` + a.message + `
               children: [x.jsx("span", {
                 children: "Token Name: "
               }), x.jsx("p", {
-                children: "ORBIS AI"
+                children: "ONI AI"
               })]
             }), x.jsxs("li", {
               "data-aos": "flip-right",
@@ -20438,14 +20438,14 @@ Error generating stack: ` + a.message + `
               children: [x.jsx("span", {
                 children: "Total Supply: "
               }), x.jsx("p", {
-                children: "1,000,000,000 $ORBIS"
+                children: "1,000,000,000 $ONI"
               })]
             }), x.jsxs("li", {
               "data-aos": "flip-right",
               children: [x.jsx("span", {
                 children: "Symbol:"
               }), x.jsx("p", {
-                children: "ORBIS"
+                children: "ONI"
               })]
             })]
           })]
@@ -66018,7 +66018,7 @@ rect.legend-mouseover-inactive,
                   loading: "lazy"
                 })
               }), x.jsx("p", {
-                children: "Token Name: ORBIS AI"
+                children: "Token Name: ONI AI"
               })]
             }), x.jsxs(ate, {
               children: [x.jsxs(L0, {
@@ -66079,7 +66079,7 @@ rect.legend-mouseover-inactive,
               })
             }), x.jsxs("div", {
               children: [x.jsx("h2", {
-                children: "ORBIS AI Protocol"
+                children: "ONI AI Protocol"
               }), x.jsxs("div", {
                 children: [x.jsx("h3", {
                   children: "Product"
@@ -66101,7 +66101,7 @@ rect.legend-mouseover-inactive,
               })]
             }), x.jsxs("div", {
               children: [x.jsx("h2", {
-                children: "ORBIS AI Protocol"
+                children: "ONI AI Protocol"
               }), x.jsxs("div", {
                 children: [x.jsx("h3", {
                   children: "Business Model"
@@ -66311,7 +66311,7 @@ rect.legend-mouseover-inactive,
               })]
             }), x.jsxs("div", {
               children: [x.jsx("p", {
-                children: "Your ORBIS Balance"
+                children: "Your ONI Balance"
               }), x.jsx("span", {
                 children: "5,379,153.0019"
               })]
@@ -66468,7 +66468,7 @@ rect.legend-mouseover-inactive,
                       children: [x.jsxs("div", {
                         children: [x.jsxs("div", {
                           children: [x.jsx("p", {
-                            children: "Raised (ORBIS)"
+                            children: "Raised (ONI)"
                           }), x.jsx("img", {
                             width: 19,
                             height: 18,
@@ -87905,7 +87905,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
               time: 0,
               value: 0
             });
-          Y && X !== null ? (l.current.style.display = "block", l.current.innerHTML = `ORBIS/WETH: ${i3(K.close)}`, l.current.style.left = `${B}px`, l.current.style.top = `${W}px`) : l.current.style.display = "none"
+          Y && X !== null ? (l.current.style.display = "block", l.current.innerHTML = `ONI/WETH: ${i3(K.close)}`, l.current.style.left = `${B}px`, l.current.style.top = `${W}px`) : l.current.style.display = "none"
         }), i.current.addEventListener("mouseleave", () => {
           l.current && (l.current.style.display = "none")
         }), () => {
@@ -87971,7 +87971,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
             }
             L(at().format("HH:mm A [on] DD/MM/YYYY")), d(O)
           } catch (_) {
-            console.error("Error fetching OHLCV data for ORBIS/WETH:", _)
+            console.error("Error fetching OHLCV data for ONI/WETH:", _)
           }
         };
       return M.useEffect(() => {
@@ -88047,7 +88047,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
               time: 0,
               value: 0
             });
-          B && W !== null ? (l.current.style.display = "block", l.current.innerHTML = `ORBIS/WETH: ${i3(Y.value)}`, l.current.style.left = `${V}px`, l.current.style.top = `${F}px`) : l.current.style.display = "none"
+          B && W !== null ? (l.current.style.display = "block", l.current.innerHTML = `ONI/WETH: ${i3(Y.value)}`, l.current.style.left = `${V}px`, l.current.style.top = `${F}px`) : l.current.style.display = "none"
         }), i.current.addEventListener("mouseleave", () => {
           l.current && (l.current.style.display = "none")
         }), () => {
@@ -88078,7 +88078,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
                   width: 30,
                   height: 30,
                   src: "./img/Common/oni_icon.png",
-                  alt: "ORBIS icon",
+                  alt: "ONI icon",
                   loading: "lazy"
                 })
               }), x.jsx("figure", {
@@ -88637,7 +88637,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
                       })
                     })]
                   })
-                }), " ", "Orbis Bot"]
+                }), " ", "ONI Bot"]
               }), x.jsxs(Ko, {
                 to: "/launchpad",
                 children: [x.jsx("span", {
@@ -88668,7 +88668,7 @@ Arguments: ` + Array.prototype.slice.call(i).join("") + `
                   })
                 }), " ", "Launchpad"]
               }), x.jsxs("a", {
-                href: "https://whitepaper.orbis-ai.pro/",
+                href: "https://whitepaper.ONI-ai.pro/",
                 target: "_blank",
                 children: [x.jsx("span", {
                   children: x.jsxs("svg", {
