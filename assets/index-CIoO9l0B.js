@@ -10949,7 +10949,7 @@ Error generating stack: ` + a.message + `
           target: "_blank",
           children: "Whitepaper"
         }), x.jsx("a", {
-          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xa146BF8774cD5e23171B633B1b8E3EDfE9e9f3D9",
           target: "_blank",
           children: "Buy Now"
         })]
@@ -12523,7 +12523,7 @@ Error generating stack: ` + a.message + `
                 target: "_blank",
                 children: "Dextools"
               }), x.jsx("a", {
-                href: "https://etherscan.io/token/0xcomingsoon",
+                href: "https://etherscan.io/token/0xa146BF8774cD5e23171B633B1b8E3EDfE9e9f3D9",
                 target: "_blank",
                 children: "Etherscan"
               })]
@@ -20392,7 +20392,7 @@ Error generating stack: ` + a.message + `
               children: [x.jsx("span", {
                 children: "Smart Contract:"
               }), x.jsxs("a", {
-                href: "https://etherscan.io/token/0xcomingsoon",
+                href: "https://etherscan.io/token/0xa146BF8774cD5e23171B633B1b8E3EDfE9e9f3D9",
                 target: "_blank",
                 children: ["coming soon", " ", x.jsx("svg", {
                   role: "img",
@@ -20403,7 +20403,7 @@ Error generating stack: ` + a.message + `
                   xmlns: "http://www.w3.org/2000/svg",
                   viewBox: "0 0 448 512",
                   onClick: async n => {
-                    n.preventDefault(), n.stopPropagation(), await navigator.clipboard.writeText("https://etherscan.io/token/0xcomingsoon"), e(!0), setTimeout(() => e(!1), 1e3)
+                    n.preventDefault(), n.stopPropagation(), await navigator.clipboard.writeText("https://etherscan.io/token/0xa146BF8774cD5e23171B633B1b8E3EDfE9e9f3D9"), e(!0), setTimeout(() => e(!1), 1e3)
                   },
                   children: x.jsx("path", {
                     fill: t ? "#abffbc" : "#fff",
