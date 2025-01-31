@@ -12519,7 +12519,7 @@ Error generating stack: ` + a.message + `
                 target: "_blank",
                 children: "Telegram"
               }), x.jsx("a", {
-                href: "https://www.dextools.io/",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xd5341fa9db29b095b86152f3b1991528f5447363?t=1738364128466",
                 target: "_blank",
                 children: "Dextools"
               }), x.jsx("a", {
